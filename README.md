@@ -12,4 +12,6 @@ $ apt-get install httrack
 
 $ pkg install openssh
 
-$ git clone
+$ git clone https://github.com/SecreTOzi/SecreTHack
+
+'SecreTOzi' Hiçbir Sorumluluk Kabul Etmez. Cyber TÜRK
