@@ -34,10 +34,10 @@ printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]              v1.2 coded by @byyozzi  
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]                 https://github.com/SecreTOzi        \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]	     Gölge HACK TİMİ BY SecreTOzi SecreTCamHack	\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\n"
 printf "\n"
-printf "        \e[1;91m Disclaimer: Aracın Hiç bir sorumluluğunu\n"
-printf "         kabul Etmiyorum illegal yolda kullanımı kişiye aittir\n"
-printf "         ve profilimde daha birçok hacker aracı bulabilirsin\n"
-printf "         CYBER TÜRK Hacker SecreTOzi!\n"
+printf "        \e[1;91m Disclaimer: Aracın Hiç Bir Sorumluluğunu\n"
+printf "         Kabul Etmiyorum İllegal Yolda Kullanımı Kişiye Aittir\n"
+printf "         VE Profilimde Daha Birçok Hack aracı Bulabilirsin\n"
+printf "         CYBER TÜRK Hacker 》 SecreTOzi!\n"
 
 
 printf "\n"
