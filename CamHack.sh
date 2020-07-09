@@ -30,8 +30,8 @@ figlet CamHack
 
 printf "\n"                                                              
 printf "\e[1;77m               .:.:\e[0m\e[1;93m Grab webcam shots by link \e[0m\e[1;77m:.:.\e[0m\n"                              
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]              v1.2 coded by @_serhatc              \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]                 https://github.com/MR-ZaNaX        \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]              v1.2 coded by @byyozzi              \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]                 https://github.com/SecreTOzi        \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]	     Gölge HACK TİMİ BY SecreTOzi SecreTCamHack	\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\n"
 printf "\n"
 printf "        \e[1;91m Disclaimer: Aracın Hiç bir sorumluluğunu\n"
