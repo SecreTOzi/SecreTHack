@@ -37,7 +37,8 @@ printf "\n"
 printf "        \e[1;91m Disclaimer: Aracın Hiç Bir Sorumluluğunu\n"
 printf "         Kabul Etmiyorum İllegal Yolda Kullanımı Kişiye Aittir\n"
 printf "         VE Profilimde Daha Birçok Hack aracı Bulabilirsin\n"
-printf "         CYBER TÜRK Hacker 》 SecreTOzi!\n"
+printf "         CYBER TÜRK Hacker SecreTOzi!\n"
+printf "         NAMI DİĞER ; OğuzhanG.\n"
 
 
 printf "\n"
