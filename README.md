@@ -14,7 +14,9 @@ $ pkg install openssh
 
 $ git clone https://github.com/SecreTOzi/SecreTHack
 
-$ cd SecreTOzi
+$ ls
+
+$ cd SecreTHack
 
 $ bash CamHack.sh
 
