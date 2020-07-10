@@ -30,9 +30,10 @@ figlet CamHack
 
 printf "\n"                                                              
 printf "\e[1;77m               .:.:\e[0m\e[1;93m Grab webcam shots by link \e[0m\e[1;77m:.:.\e[0m\n"                              
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]              v1.2 coded by @byyozzi              \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+   v1.2 coded by @byyozzi              \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]              https://github.com/SecreTOzi           \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]	     Gölge HACK TİMİ BY SecreTOzi SecreTCamHack	\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]	     NAMI DİĞER : SecreTOzi Tarafından Kodlanmıştır	\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\n"
 printf "\n"
 printf "        \e[1;91m Disclaimer: Aracın Hiç Bir Sorumluluğunu\n"
 printf "         Kabul Etmiyorum İllegal Yolda Kullanımı Kişiye Aittir\n"
